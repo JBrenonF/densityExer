@@ -1,5 +1,5 @@
 package Density;
-
+// author: brenon
 import java.util.Scanner;
 
 public class Density {
